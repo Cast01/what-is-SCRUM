@@ -62,4 +62,88 @@ No SCRUM temos apenas três papéis:
 
     Artefatos:
 
-        HERE...
+        Backlog:
+
+            Lista de requisitos da aplicação que será necessária para seu entendimento e desenvolvimento. O responsável por ela é o Produc Owner.
+
+            Product Backlog:
+
+                É a lista de requisitos em si, nela estçao contidas todas as informações pertinentes ao prjeto e tudo precisa ser desenvolvido para que a aplicação seja entregue.
+
+            Sprint Backlog:
+
+                Conjunto de informações necessárias para a finalizæção de um Sprint. Ele é criado apartir do Produc Backlog. Dentro da Sprint Backlog é que são criadas as tarefas que precisarão ser entregues no final de um Sprint.
+
+        Histórias:
+
+            São um descritivo claro e objetivo, porem resumido da funcionalidade que será desenvolvida. Muitas vezes uma história cabe em um post-it por conta justamente da objetividade.
+
+            O que é uma história no SCRUM:
+
+                No SCRUM não há tarefas e sim histórias. Quando listamos coisas a fazer ficamos tentados a criar tarefas.
+
+                Exemplo:
+
+                    Ao organizær uma festa é comum delegarmos tarefas como música, comida, bebida, decoração e etc. O problema de delegar essas tarefas a uma equipe que realmente não esteja envolvida nos resultados da decisão, ou seja, que não sejam afetadas pela concequência da escolha é muito possível que se obtenha os resultados que deseja ou obter um resultado 'perfeito'. Pois se alguem recebe uma tarefa e não entende exatamente o porque daquilo ou o porque é necessário, isso acaba ficando nebuloso. Nós humenos sempre pensamos em narrativas de história e é assim que entendemos o mundo. E é por isso que quando estivermos elaborando uma tarefa o primeiro elemento que devemos levar em consideração são os personagens ou os papéis envolvidos nela, ou seja, para quem esse trabalho está sendo feito. Em seguida devemos perguntar o que queremos fazer e por fim o motivo daquilo estar sendo feito. Se pensarmos bem essa é a parte mais importante, pois a motivação é a que da cor a tudo.
+
+                    Exemplo:
+
+                        Como cliente quero ser capaz de pesquisar livros por gênero para que eu possa encontrar o tipo de obra que eu gosto.
+
+                        Como gerente de produtos quero poder rastrear as compras do meu cliente para recomendar livros específicos com base nos que ja tenha comprado.
+
+            É dessa forma que podemos determinar o tamanho das nossas histórias para que seja adequado para o time de desenvolvimento possa desenvolvê-lo.
+
+        Burndown:
+
+            É um gráfico que mostra a linha de esforço frente aos trabalhos que precisam ser realizædos e que também já foram realizædos. Os esixos que formam esse gráfico analizæm a quantidade de trabalho a ser completado no eixo (y) e as datas ou dias de execução no eixo (x).
+
+            Gráfico para o Produto.
+
+            Gráfico para o Sprint.
+
+            É com o gráfico do Burndown que se consegue estimar o progresso do time e prasos de entrega ultilizændo dados reais do próprio projeto e não através de calculos empíricus.
+
+    Eventos:
+
+        Sprint:
+
+            É o coração do SCRUM qie é um ciclo de desenvolvimento que deve ter um tempo pré-determinado, geralmente com um tempo máximo de 1 mês. Onde o time completa alguns consjuntos de histórias, ou seja, o Sprint Backlog e é exatamente aí que entra o Sprint Planing que é uma reunião de colaboração no Sprint Backlog e que devem ser entregues no final da Sprint, além dessa Backlog a equipe define também qual será a meta a ser atingida com essa Sprint, geralmente esse planejamento também tem um tempo definido de no máximo 8 horas.
+
+            Essas limitações que o SCRUM impõe são importantes para saber que se algo está levndo muito tempo para planejar, então precisamos dividí-la ainda mais.
+
+        Daily Scrum(reuniões diárias):
+
+            Essas reuniões como o próprio node diz, são executadas diariamente pelo time de desenvolvimento e pelo Scrum Master e é nesse evento que se faz o sincronismo das tarefas e o planejamento dás próximas 24 horas. Algumas questões devem ser levantadas como o que foi feito no dia anterior, o que será feito no dia atual e se há ou houve algum impeditivo que dificultou a conclusão de algo. Se algo estiver impedindo, o Scrum Master deve intervir imediatamente para tentar sanar o problema, nessas reuniões o tempo é importantíssimo, o ideal é que elas não durem mais de 15 minutos. Depois da Daily Scrum temos mais dois eventos, a Sprint Review e a Sprint Retrospective.
+
+            Sprint Review:
+
+                É sempre realizædo no útimo dia da Sprint e é aí que demonstra ao Produc Owner e aos demais Stack Holders o incremento que foi criadoao produto.
+
+                É focado no aceite ou não do trabalho realizædo.
+
+                Sprint Backlog Review:
+
+                    E aqui se define o provável próximo Backlog para a próxima Sprint.
+
+            Sprint Retrospective:
+
+                É uma reunião realizæda após o Sprint Review e que tem o objetivo de rever o processo de trabalho e da qualidade da última Sprint. É realizæda pelo próprio time com no máximo 3 horas de duração.
+
+O SCRUM não perde muito tempo com essas coisas. Pois cada problema que ocorre a correção é sempre muito rápida.
+
+Se for fracaçar, fracasse rápido para que a correção venha o quanto antes.
+
+Resumo:
+
+    Começa com a visão do produto.
+
+    Criar os 'users histories'(tarefas do SCRUM(histórias)) e apartir daí vão se gerando os 'Product Backlogs'.
+
+    Planejamento da Sprint(Sprint Planing => máx 8h) e todo o time SCRUM colabora com esse planejamento.
+
+    Sprint Backlog que são as histórias que serão concluídas durante o processo da Sprint(máz => 1 mês), durante a Sprint temos as Dily Scrum(máx => 15min diariamente) e depois de concluirmos a Sprinte teremos um entregável.
+
+    Sprint Review(revisão da Sprint(máx => 4h)) e pode fazer parte dela algum Stake Holder(algum interessado no produto que seja de fora do time SCRUM).
+
+    Sprint Retrospective(retrospectiva doque aconteceu) e isso ajuda bastante á começar um novo ciclo.

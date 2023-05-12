@@ -1,28 +1,28 @@
 scrum.org
 
-SCRUM está ligado à área de gerenciamento de projetos e de equipes ágeis.
+SCRUM está ligado à áream de gerenciamento de projetos e de equipes ágeis.
 
-É uma abordagem ágil muito ultilizæda por equipes de tecnologia.
+É uma abordagem muito ultilizæda por equipes de tecnologia.
 
-SCRUM indica coletivismo e a integração de todos para algo ser feito perfeitamente.
+SCRUM indica coletivismo e integração de todos para algo ser feito perfeitamente.
 
-O método SCRUM é definido como um framework em que as pessoas podem tratar de problemas complexos e adaptativos e entregarem de modo produtivo e criativo, produtos de altíssimo valor.
+O método SCRUM é definido como um framework em que as pessoas podem tratar de problemas complexos e adaptativos e entrgarem de modo produtivo e criativo, produtos de altissímo valor.
 
-GESTÃO DE PROJETOS.
+SCRUM te a ver com gestão de projetos.
 
-O SCRUM é uma medologia ágil que usa sequências de trabalho incrementais e interativas.
+O SCRUM é a metodologia ágil que usa sequência de trabalho incrementais e interativas.
 
-SCRUM ajuda as pessoas a solucionar problemas e concluir projetos com o máximo de produtividade possível e garantido que os projetos em que trabalham tenham o maior valor possível.
+SCRUM ajuda as pessoas a solucionar problemas e concluir projetos com o maximo de produtividade possível e garantindo que os projetos em que trabalham tenham o maior valor possível.
 
-Com SCRUM sua equipe sempre vai ter conhecimento do progresso do projeto em tempo real ao classificar as tarefas em estágios como a fazer, fazendo e feito.
+Com SCRUM sua equipe sempre vai ter conhecimento do prograsso do projeto em tempo real ao classificar as tarefas em estágios como a como: a fazer, fazendo e feito.
 
-Um dos princípios do SCRUM é a visibilidade, ou seja, todos na equipe devem estar cientes do que cada um está fazendo(qual a sua tarefa). Importante para mostrar o progresso do projeto e mostrar para onde a equipe está caminhando. Por isso dar visibilidade á tudo é tão importante.
+Um dos princípios do SCRUM é a visibilidade, ou seja, todos na equipe devem estar cientes do que cada um está fazendo(qual sua tarefa). Importante para mostrar o progresso do projeto e mostrar para onde a equipe está caminhando. Por isso dar visibilidade á tudo é tão importante.
 
 Mas o SCRUM não se trata de apenas dar visibilidade, nele existem alguns papéis, regras e rotinas a serem seguidas justamente para que o projeto tenha controle e rastreabilidade.
 
 Porque o SCRUM surgiu:
 
-    Antes tinhamos um modelo de gestão chamado PDCA e seu conceito era a melhoria continua dos projetos cada letra é uma ação dentro do processo:
+    Antes tinhamos um modelo de gestão chamado PDCA e seu conceito era a melhoria continua dos projetos. Cada letra é uma ação dentro do processo:
 
         P - Plan
 
@@ -34,11 +34,11 @@ Porque o SCRUM surgiu:
 
     Pode ser associado ao modelo de desenvolvimento waterfall(cascata) e que á alguns anos atrás se mostrou um modelo em saturação.
 
-    Apesar de ser um ciclo ele é muito amplo, onde a etapa do Plan só era conclúida depois que todos os requisitos eram levantados e definidos, mas os requisitos quase sempre mudavam entre as etapas do Do e Check e o ciclo acabava furado de alguma forma. O SCRUM foi pensado para que esse procecesso fosse mais curto e que para cada fim de um ciclo um entregável ja esteja pronto e isso permitiu que consseguissemos um pequeno pedaço de produto pronto e de forma constante, pois a cada passo em falso dado é possível voltar sem levar um tombo e essa é sua essencia.
+    Apesar de ser um ciclo ele é muito amplo, onde a etapa do Plan só era concluída depois que todos os requisitos eram levantados e definidos, mas os requisitos quase sempre mudavam entre as etapas do Do e Check e o ciclo acabava furado de alguma forma. O SCRUM foi pensado para que esse processo fosse mais curto e que para cada fim de um ciclo um entregável já esteja pronto e isso permitiu que consseguissemos um pequeno pedaço de produto pronto e de forma constante, pois a cada passo em falso dado é possível voltar sem levar um tobmo e essa é sua essencia.
 
-O SCRUM pode ser considerado uma melhoria de modelos de gestão antigos. Ainda mais voltado para melhoria continua e para o desenvolvimento de projetos de softweres.
+O SCRUM pode ser considerado uma melhoria de modelos de gestão antigos. Ainda maiis voltado para melhoria continua e para o desenvolvimento de projetos de softweres.
 
-No SCRUM temos apenas três elementos:
+No SCRUM temos apenas três papéis:
 
     Papéis:
 
@@ -50,11 +50,11 @@ No SCRUM temos apenas três elementos:
 
         Scrum Master:
 
-            É o lider que facilita o trabalho do time SCRUM e também um dos demais envolvidos, responssável por não deixar impeditivos para que sua equipe faça o trabalho e é ele também que garante que os eventos SCRUM sejam seguidos, ou seja, é responssável por manter o ciclo do SCRUM fluindo.
+            É o lider que facilita o trabalho do time SCRUM e também um dos demais envolvidos, responsável por não deixar impeditivos para que sua equipe faça o trabalho e é ele também que garante que os eventos SCRUM sejam seguidos, ou seja, é responsável por manter o ciclo fluindo.
 
         Time de desenvolvimento:
 
-            Formado por todas as pessoas da equipe envolvidas no projeto, no SCRUM diz-se que uma equipe deve ser auto-organizæda e responssável por realizær o trabalho que vai gerar a entrega da Sprint. A equipe é responssável por colocar a mão na massa e criar as versões usáveis do produto o ideal é que ela tenha entre três e nove pessoas, uma equipe bem enxuta.
+            Formado por todas as pessoas da equipe envolvidas no projeto, no SCRUM diz-se que uma equipe deve ser auto-organizæda e responsável por realizær o trabalho que vai gerar a entrega da Sprint. A equipe é responsável por colocar a mão na massa e criar as versões usáveis do produto. O ideal é que ela tenha entre três e nove pessoas, uma equipe bem enxuta.
 
         Observação:
 
@@ -62,81 +62,88 @@ No SCRUM temos apenas três elementos:
 
     Artefatos:
 
-        BackLog:
+        Backlog:
 
-            Lista de requisitos da aplicação que será necessária para seu entendimento e desenvolvimento. O responssável por ela é o Produc Owner
+            Lista de requisitos da aplicação que será necessária para seu entendimento e desenvolvimento. O responsável por ela é o Produc Owner.
 
             Product Backlog:
 
-                É a lista de requisitos em si, nela estão contidas todas as informações pertinentes ao projeto e tudo precisa ser desenvolvido para que a aplicação seja entregue.
+                É a lista de requisitos em si, nela estçao contidas todas as informações pertinentes ao prjeto e tudo precisa ser desenvolvido para que a aplicação seja entregue.
 
             Sprint Backlog:
 
-                Conjunto de informações necessárias para a finalizæção de um sprint. Ele é criado apartir do Produc Backlog. Dentro da Sprint Backlog é que são criadas as tarefas que precisarão ser entregues no final de um Sprint.
+                Conjunto de informações necessárias para a finalizæção de um Sprint. Ele é criado apartir do Produc Backlog. Dentro da Sprint Backlog é que são criadas as tarefas que precisarão ser entregues no final de um Sprint.
 
         Histórias:
 
-            São um descritivo claro e objetivo porem resumido da funcionalidade que será desenvolvida. Muitas vezes uma história cabe em um postit por conta justamente da objetividade.
+            São um descritivo claro e objetivo, porem resumido da funcionalidade que será desenvolvida. Muitas vezes uma história cabe em um post-it por conta justamente da objetividade.
 
             O que é uma história no SCRUM:
 
-                No SCRUM não há tarefas e sim histórias, quando listamos coisas a fazer ficamos tentados a criar tarefas
+                No SCRUM não há tarefas e sim histórias. Quando listamos coisas a fazer ficamos tentados a criar tarefas.
 
                 Exemplo:
 
-                    Ao organizær uma festa é comum delegarmos tarefas como música, comida, bebida, decoração e etc. O problema de delegar essas tarefas a uma equipe que realmente não esteja envolvida nos resultados da decisão, ou seja, que não sejam afetadas pela concequência da escolha é muito possível que não se obtenha os resultados que deseja ou obter um resultado "perfeito". Pois se alguem recebe uma tarefa e não entende exatamente o porque daquilo ou o porque é necessário isso acaba ficando nebuloso. Nós humanos sempre pensamos em narrativa de história e é assim que entendemos o mundo. E é por isso que quando estivermos elaborando uma tarefa o primeiro elemento que devemos levar em consideração são os personagens ou os papéis envolvido nela, ou seja, para quem esse trabalho está sendo feito. Em seguida devomos perguntar o que queremos fazer e por fim o motivo daquilo estar sendo feito. Se pensarmos bem essa é a parte mais importante, pois a motivação é a que da cor a tudo.
+                    Ao organizær uma festa é comum delegarmos tarefas como música, comida, bebida, decoração e etc. O problema de delegar essas tarefas a uma equipe que realmente não esteja envolvida nos resultados da decisão, ou seja, que não sejam afetadas pela concequência da escolha é muito possível que se obtenha os resultados que deseja ou obter um resultado 'perfeito'. Pois se alguem recebe uma tarefa e não entende exatamente o porque daquilo ou o porque é necessário, isso acaba ficando nebuloso. Nós humenos sempre pensamos em narrativas de história e é assim que entendemos o mundo. E é por isso que quando estivermos elaborando uma tarefa o primeiro elemento que devemos levar em consideração são os personagens ou os papéis envolvidos nela, ou seja, para quem esse trabalho está sendo feito. Em seguida devemos perguntar o que queremos fazer e por fim o motivo daquilo estar sendo feito. Se pensarmos bem essa é a parte mais importante, pois a motivação é a que da cor a tudo.
 
-                    Como gerente de produtos quero poder rastrear as compras do meu cliente para recomendar livros específicos com base nos que ja tenha comprado.
+                    Exemplo:
 
-                    Como cliente quero ser capaz de pesquisar livros por gênero para que eu possa encontrar o tipo de obra que eu gosto.
+                        Como cliente quero ser capaz de pesquisar livros por gênero para que eu possa encontrar o tipo de obra que eu gosto.
 
-            É dessa forma que podemos determinar o tamnho das nossas histórias para que seja adequado para o time de desenvolvimento possa desenvolvê-lo.
+                        Como gerente de produtos quero poder rastrear as compras do meu cliente para recomendar livros específicos com base nos que ja tenha comprado.
+
+            É dessa forma que podemos determinar o tamanho das nossas histórias para que seja adequado para o time de desenvolvimento possa desenvolvê-lo.
 
         Burndown:
 
-            É um gráfico que mostra a linha de esforço frente aos trabalhos que precisam ser realizær e que também já forram realizædos os eixos que formam esse gráfico analisam a quantidade de trabalho a ser completado no eixo (Y) e as datas ou dias de execução no eixo (X).
+            É um gráfico que mostra a linha de esforço frente aos trabalhos que precisam ser realizædos e que também já foram realizædos. Os esixos que formam esse gráfico analizæm a quantidade de trabalho a ser completado no eixo (y) e as datas ou dias de execução no eixo (x).
 
-            Gráfigo pra o produto.
+            Gráfico para o Produto.
 
             Gráfico para o Sprint.
 
-            É com o gráfico do Burdown que se consegue estimar o progresso do time e prasos de entrega ultilizændo dados reais do próprio peojeto e não através de calculos empíricos.
+            É com o gráfico do Burndown que se consegue estimar o progresso do time e prasos de entrega ultilizændo dados reais do próprio projeto e não através de calculos empíricus.
 
     Eventos:
 
         Sprint:
 
-            É o coração do SCRUM que é um ciclo de desenvolvimento que deve ter um tempo pré-determinado geralmente com um tempo máximo de 1 mês. Onde o time completa alguns conjuntos de hístória, ou seja, o Sprint Backlog e é exatamente aí que entra o Sprint Planning que é uma reunião de colaboração do time SCRUM para a definição dos itens que entrarão no Sprint Backlog e que deverm ser entregues no final da Sprint, além dessa Backlog a equipe define também qual será a meta a ser atingida com essa Sprint, geralmente esse planejamento também tem um tempo definido de no máximo 8 horas.
+            É o coração do SCRUM qie é um ciclo de desenvolvimento que deve ter um tempo pré-determinado, geralmente com um tempo máximo de 1 mês. Onde o time completa alguns consjuntos de histórias, ou seja, o Sprint Backlog e é exatamente aí que entra o Sprint Planing que é uma reunião de colaboração no Sprint Backlog e que devem ser entregues no final da Sprint, além dessa Backlog a equipe define também qual será a meta a ser atingida com essa Sprint, geralmente esse planejamento também tem um tempo definido de no máximo 8 horas.
 
-            Essas limitações que o SCRUM impõe são importantes para saber que se algo está levando muito tempo para planejar, então precisamos dividi-la ainda mais.
+            Essas limitações que o SCRUM impõe são importantes para saber que se algo está levndo muito tempo para planejar, então precisamos dividí-la ainda mais.
 
-        Daily Scrum(Reuniões diárias):
+        Daily Scrum(reuniões diárias):
 
-            Essas reuniões como o próprio nome diz, são executadas diariamente pelo time de desenvolvimento e pelo Scrum Master e é nesse evento que se faz o sincronismo das tarefas e o planejamento dás próximas 24 horas. Algumas questões devem ser levantadas como o que foi feito no dia anterior, o que será feito no dia atual e se há ou houve algum impeditivo que dificultou a conclusão de algo. Se algo estiver impedindo o Scrum Master deve intervir imediatamente para tentar sanar o problema, nessas reuniões o tempo é importantíssimo o  ideal é que elas não durem mais de 15 minutos. Depois da Daily Scrum temos mais dois eventos a Sprint Review e a Sprint Retrospective.
+            Essas reuniões como o próprio node diz, são executadas diariamente pelo time de desenvolvimento e pelo Scrum Master e é nesse evento que se faz o sincronismo das tarefas e o planejamento dás próximas 24 horas. Algumas questões devem ser levantadas como o que foi feito no dia anterior, o que será feito no dia atual e se há ou houve algum impeditivo que dificultou a conclusão de algo. Se algo estiver impedindo, o Scrum Master deve intervir imediatamente para tentar sanar o problema, nessas reuniões o tempo é importantíssimo, o ideal é que elas não durem mais de 15 minutos. Depois da Daily Scrum temos mais dois eventos, a Sprint Review e a Sprint Retrospective.
 
             Sprint Review:
 
-                É sempre realizædo no último dia da Sprint e é ai que demonstra ao Product Owner e aos demais Stack Holders o incremento que foi criado ao produto.
+                É sempre realizædo no útimo dia da Sprint e é aí que demonstra ao Produc Owner e aos demais Stack Holders o incremento que foi criadoao produto.
 
-                É focado no aceite ou não do trabalho realizædo
+                É focado no aceite ou não do trabalho realizædo.
 
                 Sprint Backlog Review:
 
-                    E aqui se define o provavel próximo Backlog para a póxima Sprint.
+                    E aqui se define o provável próximo Backlog para a próxima Sprint.
 
             Sprint Retrospective:
 
-                É uma reunião realizæda após o Sprint Review e que tem o objetivo de rever o processo de trabalho e da qualidade da ultima Sprint é realizæda pelo próprio time com no máximo 3 horas de duração.
+                É uma reunião realizæda após o Sprint Review e que tem o objetivo de rever o processo de trabalho e da qualidade da última Sprint. É realizæda pelo próprio time com no máximo 3 horas de duração.
 
+O SCRUM não perde muito tempo com essas coisas. Pois cada problema que ocorre a correção é sempre muito rápida.
 
-O SCRUM não perde muito tempo com as coisas. Pois cada problema que ocorre a correção é sempre muito rápida 
-
-Se for fracaçar fracasse rápido, para que a correção venha o quanto antes.
-
-Livro:
-
-    A arte de fazer o dobro do trabalho na metade do tempo. Jeff Sutherland
+Se for fracaçar, fracasse rápido para que a correção venha o quanto antes.
 
 Resumo:
 
-    Começa com a visão do produto logo em seguida são cridos os "users histories"(tarefas do SCRUM(histórias)) e apartir daí vão se gerando os "Product Backlogs", o próximo passo já é o planejamento da Sprint((Sprint Planning)max 8h) e todo o time SCRUM colabora com esse planejamento depois disso é gerado o Sprint Backlog que são as histórias que seram concluidas duranto o processo da Sprint(max 1 mês), durante a Sprint temos as Daily Scrum(max 15 min diariamente) depois de concluir a Sprint teremos um entregável e apartir daí iniciamos a Sprint Review(revisão da Sprint(max 4h)) e pode fazer parte dela algum Stake Holder(algum interessado no produto que seja de fora do time SCRUM) e uma vez finalizædo a revisão passamos para a Sprint Retrospective(retorspectiva doque aconteceu) e isso ajuda bastante á começar um novo ciclo 
+    Começa com a visão do produto.
+
+    Criar os 'users histories'(tarefas do SCRUM(histórias)) e apartir daí vão se gerando os 'Product Backlogs'.
+
+    Planejamento da Sprint(Sprint Planing => máx 8h) e todo o time SCRUM colabora com esse planejamento.
+
+    Sprint Backlog que são as histórias que serão concluídas durante o processo da Sprint(máz => 1 mês), durante a Sprint temos as Dily Scrum(máx => 15min diariamente) e depois de concluirmos a Sprinte teremos um entregável.
+
+    Sprint Review(revisão da Sprint(máx => 4h)) e pode fazer parte dela algum Stake Holder(algum interessado no produto que seja de fora do time SCRUM).
+
+    Sprint Retrospective(retrospectiva doque aconteceu) e isso ajuda bastante á começar um novo ciclo.
